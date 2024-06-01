@@ -1,0 +1,15 @@
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\bin\Debug\net8.0\DesafioC#.exe
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\bin\Debug\net8.0\DesafioC#.deps.json
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\bin\Debug\net8.0\DesafioC#.runtimeconfig.json
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\bin\Debug\net8.0\DesafioC#.dll
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\bin\Debug\net8.0\DesafioC#.pdb
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.AssemblyInfoInputs.cache
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.AssemblyInfo.cs
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.csproj.CoreCompileInputs.cache
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.sourcelink.json
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.dll
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\refint\DesafioC#.dll
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.pdb
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\DesafioC#.genruntimeconfig.cache
+C:\Users\roger\Desktop\Estudos\dio-trilha-java-basico\salario-funcionario\DesafioC#\DesafioC#\obj\Debug\net8.0\ref\DesafioC#.dll
