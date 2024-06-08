@@ -57,6 +57,8 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 
 
 
- ```bash
-https://github.com/RoggerioVieira/dio-trilha-java-basico/tree/main/poo
-```
+```bash
+https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
+```` 
+
+
