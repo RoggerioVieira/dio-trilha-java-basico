@@ -1,4 +1,4 @@
-package telefone.navegador;
+package telefone.aparelhoCelular.navegador;
 
 public interface NavegadorInternet {
     void exibirPagina(String url);

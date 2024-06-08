@@ -1,4 +1,4 @@
-package telefone.aparelhoTelefone;
+package telefone.aparelhoCelular.aparelhoTelefone;
 
 public interface AparelhoTelefonico {
     void ligar(String numero);

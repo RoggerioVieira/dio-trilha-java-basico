@@ -1,4 +1,4 @@
-package telefone.reprodutorMusica;
+package telefone.aparelhoCelular.reprodutorMusica;
 
 public interface ReprodutorMusical {
     void tocar();

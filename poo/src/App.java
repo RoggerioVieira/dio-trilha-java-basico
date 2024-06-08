@@ -1,6 +1,6 @@
-package telefone;
 
-import telefone.celular.iPhone;
+
+import telefone.aparelhoCelular.celular.iPhone;
 
 public class App {
     public static void main(String[] args) {

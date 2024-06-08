@@ -1,8 +1,8 @@
-package telefone.celular;
+package telefone.aparelhoCelular.celular;
 
-import telefone.aparelhoTelefone.AparelhoTelefonico;
-import telefone.navegador.NavegadorInternet;
-import telefone.reprodutorMusica.ReprodutorMusical;
+import telefone.aparelhoCelular.aparelhoTelefone.AparelhoTelefonico;
+import telefone.aparelhoCelular.navegador.NavegadorInternet;
+import telefone.aparelhoCelular.reprodutorMusica.ReprodutorMusical;
 
 public class iPhone implements ReprodutorMusical, AparelhoTelefonico, NavegadorInternet{
 
