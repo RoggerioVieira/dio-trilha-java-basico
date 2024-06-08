@@ -1,7 +1,7 @@
 # [DIO](www.dio.me) - Trilha Java Básico
 
 ## Autores
-- [Gleyson Sampaio](https://github.com/glysns)
+- [Rogério Vieira](https://github.com/RoggerioVieira)
 
 ## POO - Desafio
 
@@ -26,23 +26,25 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 ### Objetivo
 1. Criar um diagrama UML que represente as funcionalidades descritas acima.
 2. Implementar as classes e interfaces correspondentes em Java (Opcional).
-
-### Exemplo de Diagrama UML (Mermaid)
-```mermaid
-classDiagram
+   ### Diagrama UML (Mermaid)
+   ```mermaid
+   classDiagram
     class ReprodutorMusical {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
+         +tocar()
+        +pausar()
+        +selecionarMusica(String musica)
     }
 
     class AparelhoTelefonico {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
+         +ligar(String numero)
+        +atender()
+        +iniciarCorreioVoz()
     }
 
     class NavegadorInternet {
-        +exemploMetodo1()
-        +exemploMetodo2(String exemplo)
+        +exibirPagina(String url)
+        +adicionarNovaAba()
+        +atualizarPagina()
     }
 
     class iPhone {
@@ -59,6 +61,6 @@ classDiagram
 3. Opcionalmente, caso esteja cheio(a) de confiança, pode implementar as classes Java representadas em seu diagrama UML.
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
-```bash
+ ```bash
 https://github.com/RoggerioVieira/dio-trilha-java-basico/tree/main/poo
 ```` 
