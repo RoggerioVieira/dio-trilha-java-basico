@@ -64,5 +64,5 @@ classDiagram
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ```bash
-https://github.com/RoggerioVieira/dio-trilha-java-basico/tree/main/poo
+https://github.com/RoggerioVieira/dio-trilha-java-basico/blob/main/poo/README.md
 ```` 
