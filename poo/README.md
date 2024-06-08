@@ -53,7 +53,7 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
     iPhone --> ReprodutorMusical
     iPhone --> AparelhoTelefonico
     iPhone --> NavegadorInternet
-
+```
     ### Instruções
 1. Assista ao vídeo do lançamento do iPhone para entender as funcionalidades principais.
 2. Utilize uma ferramenta UML de sua preferência para criar o diagrama das classes e interfaces. Você pode utilizar o modelo acima (criado na sintaxe [Mermaid](https://mermaid.js.org/)), uma alternativa open-source e compatível com arquivos Markdown como este.
@@ -61,5 +61,5 @@ Com base no vídeo de lançamento do iPhone de 2007 (link abaixo), você deve el
 4. Submeta seu repositório GitHub conforme as orientações da plataforma DIO. Por exemplo:
 
 ```bash
-https://github.com/glysns/trilha-java-basico/desafios/poo/README.md
+https://github.com/RoggerioVieira/dio-trilha-java-basico/tree/main/poo
 ```` 
