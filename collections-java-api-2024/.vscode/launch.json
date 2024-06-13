@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CarrinhoDeCompras",
+            "request": "launch",
+            "mainClass": "list.OperacoesBasicas.CarrinhoDeCompras",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "ListaTarefa",
+            "request": "launch",
+            "mainClass": "list.OperacoesBasicas.ListaTarefa",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoNumeros",
+            "request": "launch",
+            "mainClass": "list.Ordenaçao.OrdenacaoNumeros",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "OrdenacaoPessoas",
+            "request": "launch",
+            "mainClass": "list.Ordenaçao.OrdenacaoPessoas",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "CatalogoLivros",
+            "request": "launch",
+            "mainClass": "list.Pesquisa.CatalogoLivros",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "SomaNumeros",
+            "request": "launch",
+            "mainClass": "list.Pesquisa.SomaNumeros",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoConvidados",
+            "request": "launch",
+            "mainClass": "set.OperacoesBasicas.ConjuntoConvidados",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "ConjuntoPalavrasUnicas",
+            "request": "launch",
+            "mainClass": "set.OperacoesBasicas.ConjuntoPalavrasUnicas",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "CadastroProdutos",
+            "request": "launch",
+            "mainClass": "set.Ordenacao.CadastroProdutos",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "GerenciadorAlunos",
+            "request": "launch",
+            "mainClass": "set.Ordenacao.GerenciadorAlunos",
+            "projectName": "collections-java-api-2024_2be11a13"
+        },
+        {
+            "type": "java",
+            "name": "AgendaContatos",
+            "request": "launch",
+            "mainClass": "set.Pesquisa.AgendaContatos",
+            "projectName": "collections-java-api-2024_2be11a13"
+        }
+    ]
+}
