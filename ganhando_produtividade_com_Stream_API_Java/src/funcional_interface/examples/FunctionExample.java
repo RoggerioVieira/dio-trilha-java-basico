@@ -1,12 +1,12 @@
-package functional_interface.examples;
+package funcional_interface.examples;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.function.Function;
 
 /**
- * Representa uma função que aceita um argumento do tipo T e retorna um resultado do tipo R.
- * É utilizada para transformar, ou mapear os elementos do Stream em outros valores, ou tipos.
+ * Representa uma função que aceita um argumento do tipo T e retorna um resu
+ * É utilizada para transformar, ou mapear os elementos do Stream em outros 
  */
 public class FunctionExample {
   public static void main(String[] args) {
@@ -17,7 +17,7 @@ public class FunctionExample {
     @SuppressWarnings("unused")
     Function<Integer, Integer> dobrar = numero -> numero * 2;
 
-    // Usar a função para dobrar todos os números no Stream e armazená-los em outra lista
+    // Usar a função para dobrar todos os números no Stream e armazená-los e
     List<Integer> numerosDobrados = numeros.stream()
         .map(n -> n * 2)
         .toList();

@@ -1,4 +1,5 @@
-package functional_interface.examples;
+package funcional_interface.examples;
+
 
 import java.util.Arrays;
 import java.util.List;

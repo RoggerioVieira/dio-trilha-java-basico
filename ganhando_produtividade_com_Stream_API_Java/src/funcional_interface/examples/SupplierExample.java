@@ -1,4 +1,4 @@
-package functional_interface.examples;
+package funcional_interface.examples;
 
 import java.util.List;
 import java.util.function.Supplier;
