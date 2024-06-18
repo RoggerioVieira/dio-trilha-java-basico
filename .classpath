@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="banco/src/main/java"/>
+	<classpathentry kind="src" path="collections-java-api-2024/src"/>
+	<classpathentry kind="src" path="conta-banco/src"/>
+	<classpathentry kind="src" path="controle-candidatos/src"/>
+	<classpathentry kind="src" path="controle-fluxo/src"/>
+	<classpathentry kind="src" path="Contrutores/src"/>
+	<classpathentry kind="src" path="DesafioControleFluxo/src"/>
+	<classpathentry kind="src" path="Enum/src"/>
+	<classpathentry kind="src" path="ganhando_produtividade_com_Stream_API_java/src"/>
+	<classpathentry kind="src" path="Getters-Setters/src"/>
+	<classpathentry kind="src" path="Interface-Impressora/src"/>
+	<classpathentry kind="src" path="MSN-Messenger/src"/>
+	<classpathentry kind="src" path="poo/src"/>
+	<classpathentry kind="src" path="salario-funcionario/Desafiojava/src"/>
+	<classpathentry kind="src" path="sistema-lanchonete/src"/>
+	<classpathentry kind="lib" path="salario-funcionario/DesafioKotlin/Desafio.jar"/>
+	<classpathentry kind="output" path="Contrutores/bin"/>
+</classpath>
