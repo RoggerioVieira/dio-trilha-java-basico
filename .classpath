@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
+<<<<<<< HEAD
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="banco/src/main/java"/>
 	<classpathentry kind="src" path="collections-java-api-2024/src"/>
@@ -18,4 +19,14 @@
 	<classpathentry kind="src" path="sistema-lanchonete/src"/>
 	<classpathentry kind="lib" path="salario-funcionario/DesafioKotlin/Desafio.jar"/>
 	<classpathentry kind="output" path="Contrutores/bin"/>
+=======
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-22">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/roger/Downloads/lombok.jar"/>
+	<classpathentry kind="output" path="bin"/>
+>>>>>>> 5f2ceccc59f8b3d3d4d332009c3d7928f3e1a525
 </classpath>
