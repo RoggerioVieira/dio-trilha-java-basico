@@ -19,4 +19,3 @@ public class App {
         banco.listarClientes(); // Lista os clientes do banco
     }
 }
-
