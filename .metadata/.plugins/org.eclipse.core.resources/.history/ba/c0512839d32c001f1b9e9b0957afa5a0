@@ -1,0 +1,19 @@
+import lombok.Data;
+
+@Data
+public class Agencia {
+    private int numero;
+    private String endereco;
+
+    public Agencia(int numero, String endereco) {
+        this.numero = numero;
+        this.endereco = endereco;
+    }
+
+	public void setNumero(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	
+}

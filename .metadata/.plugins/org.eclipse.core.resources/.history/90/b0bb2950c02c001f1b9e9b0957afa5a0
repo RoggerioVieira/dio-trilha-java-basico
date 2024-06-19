@@ -1,0 +1,22 @@
+public class App {
+    public static void main(String[] args) {
+        Banco banco = new Banco();
+        banco.setNome("Meu Banco");
+
+        Cliente rogerio = new Cliente();
+        rogerio.setNome("Rogerio");
+
+        Conta cc = new ContaCorrente(rogerio);
+        cc.depositar(100);
+        banco.adicionarConta(cc);
+
+        Conta cp = new ContaPoupanca(rogerio);
+        cc.transferir(50, cp);
+        banco.adicionarConta(cp);
+
+        cc.imprimirExtrato();
+        cp.imprimirExtrato();
+
+        banco.listarClientes();
+    }
+}

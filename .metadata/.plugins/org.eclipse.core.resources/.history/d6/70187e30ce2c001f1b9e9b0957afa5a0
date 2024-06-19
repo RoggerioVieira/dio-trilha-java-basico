@@ -1,0 +1,23 @@
+import lombok.Data;
+
+@Data
+public class Agencia {
+    public int numero;
+   
+	public void setNumero(int i) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setEndereco(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+	public int getNumero() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+	 Object getEndereco() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+}

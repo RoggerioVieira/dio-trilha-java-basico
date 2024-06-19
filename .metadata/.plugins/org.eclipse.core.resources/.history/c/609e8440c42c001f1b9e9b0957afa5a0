@@ -1,0 +1,22 @@
+import lombok.Data;
+
+@Data
+public class Transacao {
+    private double valor;
+    private String descricao;
+    private long timestamp;
+
+    public Transacao(double valor, String descricao) {
+        this.setValor(valor);
+        this.descricao = descricao;
+        this.timestamp = System.currentTimeMillis();
+    }
+
+	public double getValor() {
+		return valor;
+	}
+
+	public void setValor(double valor) {
+		this.valor = valor;
+	}
+}

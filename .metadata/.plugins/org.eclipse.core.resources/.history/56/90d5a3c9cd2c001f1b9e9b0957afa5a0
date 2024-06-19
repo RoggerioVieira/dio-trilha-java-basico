@@ -1,0 +1,80 @@
+
+//public class Cliente {
+
+	//private String nome;
+
+	//public String getNome() {
+	//	return nome;
+	//}
+
+	//public void setNome(String nome) {
+	//	this.nome = nome;
+	///}
+
+	//public void setEndereco(String string) {
+		// TODO Auto-generated method stub
+		
+	//}
+
+	//public void setCpf(String string) {
+		// TODO Auto-generated method stub
+		
+	//}
+
+	//public Object getCpf() {
+		// TODO Auto-generated method stub
+	//	return null;
+	//}
+
+	//public Object getEndereco() {
+		// TODO Auto-generated method stub
+	//	return null;
+	//}
+
+	
+		
+	//}
+import lombok.Data;
+
+@Data
+public class Cliente {
+    private String nome;
+    private String cpf;
+    private String endereco;
+
+    public Cliente(String nome, String cpf, String endereco) {
+        this.setNome(nome);
+        this.setCpf(cpf);
+        this.setEndereco(endereco);
+    }
+
+	public Cliente() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public Object getNome() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public String getCpf() {
+		return cpf;
+	}
+
+	public void setCpf(String cpf) {
+		this.cpf = cpf;
+	}
+
+	public String getEndereco() {
+		return endereco;
+	}
+
+	public void setEndereco(String endereco) {
+		this.endereco = endereco;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
+}
+

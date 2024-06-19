@@ -1,0 +1,24 @@
+import lombok.Data;
+
+@Data
+public class Transacao {
+    private long timestamp;
+
+    public Transacao(double valor, String descricao) {
+        this.setValor(valor);
+        this.timestamp = System.currentTimeMillis();
+    }
+
+	public Object getDescricao() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public Object getValor() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	public void setValor(double valor) {
+	}
+}
